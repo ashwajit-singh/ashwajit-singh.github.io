@@ -4,7 +4,6 @@
     "label": "",
     "image": "",
     "email": "ashwajit.singh@iitb.ac.in",
-    "phone": "(912) 123-4567",
     "url": "https://ashwajit-singh.github.io",
     "summary": "",
     "location": {
@@ -27,12 +26,10 @@
       "institution": "Indian Institute of Technology Bombay",
       "location": "Mumbai, India",
       "url": "https://www.iitb.ac.in/",
-      "area": "Software Development",
-      "studyType": "PhD",
+      "area": "Electrical Engineering",
+      "studyType": "B. Tech",
       "startDate": "2022",
-      "endDate": "Present",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "endDate": "Present"
     }
   ],
   "publications": [
